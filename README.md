@@ -7,7 +7,7 @@
 ### 3. Buat Nama Repositori LatihanVCS setelah ikuti gambar yang dibawah ini
 ![Gambar 3](screenshot/setingrepositori.png)
 ### 4. Login pada git bash
-![Gambar 4](screenshot/logingithub2.png)
+![Gambar 4](screenshot/logingitbash.png)
 ### 5. Setelah itu ke git bash untuk menghubungkan Git Bash dengan Github
 ![Gambar 5](screenshot/logingithub2.png)
 ### 6. Masuk ke git bash dan masuk ke direktori C
