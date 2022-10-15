@@ -9,8 +9,8 @@
 ### 4. Setelah itu ke git bash untuk menghubungkan Git Bash dengan Github
 ![Gambar 4](screenshot/logingithub2.png)
 ### 5. Masuk ke git bash dan masuk ke direktori C
-<p>Lakukan `git clone https://github.com/afrizalfajrianto/LatihanVCS.git` untuk memindahkan file yang ada pada github ke direktori C
-<p>
-`<p>'
+<p>Lakukan git clone https://github.com/afrizalfajrianto/LatihanVCS.git` untuk memindahkan file yang ada pada github ke direktori C
+untuk mengecek https pada web dengan klik code pada repository<p>
 
-![Gambar 5](screenshot/gitclone2.png)
+![Gambar 5](screenshot/gitclone.png)
+### 6. 
