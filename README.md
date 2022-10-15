@@ -30,7 +30,7 @@ untuk mengecek https pada web dengan klik code pada repository<p>
 ### 11. Tambahkan syntax git push -u origin main
 ![gambar 13](screenshot/gitpush.png)
 ### 12. Cek repository pada akun github
-![Gambar 14](screenshot/cekrepositoripadaakungithub)
+![Gambar 14](screenshot/cekrepositoripadaakungithub.png)
 
 <p>SELESAI.<p>
 
