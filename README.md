@@ -11,5 +11,6 @@
 ### 5. Masuk ke git bash dan masuk ke direktori C
 <p>Lakukan `git clone https://github.com/afrizalfajrianto/LatihanVCS.git` untuk memindahkan file yang ada pada github ke direktori C
 <p>
+`<p>'
 
 ![Gambar 5](screenshot/gitclone2.png)
